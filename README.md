@@ -3,7 +3,7 @@ Requirements:
   ROS2 Humble
   rtab-map
 
-Clone the repo and `colcon build` at root
+Clone the repo and `colcon build` at root then
 `source install/setup.bash`
 
 Start simulation
